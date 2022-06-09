@@ -4,5 +4,5 @@ This is a simple one page website with **responsive design** for a local tennis 
 
 **HTML5, CSS3**
 
-https://janetrish.github.io/tennis-club/
+You can see it online here: https://janetrish.github.io/tennis-club/
 
