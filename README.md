@@ -1,4 +1,4 @@
-# Atlantic tennis club #
+## Atlantic tennis club ##
 
 This is a simple static website with **responsive design** for a local tennis club.  
 
